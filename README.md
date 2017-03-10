@@ -1,24 +1,11 @@
-# README
+# Boba Tracker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is for my fellow traveling boba lovers. Visit any new city with the confidence of knowing where all the hot boba spots are!
 
-Things you may want to cover:
+Found a new spot? Add it to map!
 
-* Ruby version
+Love the boba? Up-vote!
 
-* System dependencies
+Hate it the boba? Downvote :(
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+_keep calm and boba on_
